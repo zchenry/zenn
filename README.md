@@ -3,4 +3,4 @@
 * [Guide](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 # TODO
-pre-commit hooks
+- [Google Analytics](https://zenn.dev/unsoluble_sugar/articles/c784905997dde2ffce68)
